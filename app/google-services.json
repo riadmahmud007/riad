@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "161045151789",
+    "firebase_url": "https://riad-bb946.firebaseio.com",
+    "project_id": "riad-bb946",
+    "storage_bucket": "riad-bb946.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161045151789:android:e06545432f7e8cb6fab8a4",
+        "android_client_info": {
+          "package_name": "com.example.homeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161045151789-iu0dlqfubpb9j2restvkhekijip4shsm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homeapp",
+            "certificate_hash": "643ff414b90ac485ad6b1e39ac05cdc3635db33a"
+          }
+        },
+        {
+          "client_id": "161045151789-v50aktpqppiq9cjqt8ja73h1iq3276pr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9gign0lC7Xmb-Um88V8cuuEJrx1UXhUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161045151789-v50aktpqppiq9cjqt8ja73h1iq3276pr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
